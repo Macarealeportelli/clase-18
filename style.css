@@ -2,7 +2,22 @@
     color: green;
 }
 
-#borde-rojo{
-    border: 1px solid red;
+.rojo {
+    color: red;
 }
 
+.amarillo {
+    color: yellow;
+}
+
+.azul {
+    color: blue;
+}
+
+.rosa {
+    color: pink;
+}
+
+.negro{
+    color: black;
+}
